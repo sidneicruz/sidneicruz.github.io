@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sidnei Cruz",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "sidnei.cruz@gmail.com",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -47,15 +47,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Instituto Superior Técnico (IST)",
+      "location": "Lisbon, Portugal",
+      "url": "https://tecnico.ulisboa.pt/pt",
+      "area": "",
       "studyType": "PhD",
       "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "endDate": "present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Computer Science and Engineering"]
+    },
+    {
+      "institution": "Faculty of Science and Technology of the University of Coimbra (FCTUC)",
+      "location": "Coimbra, Portugal",
+      "url": "https://www.uc.pt/en/fctuc/dmat",
+      "area": "",
+      "studyType": "Master",
+      "startDate": "2006-09-01",
+      "endDate": "2008-09-01",
+      "score": "10",
+      "courses": ["Mathematics and Computer Science"]
     }
   ],
   "awards": [
