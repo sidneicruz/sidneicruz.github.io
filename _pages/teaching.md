@@ -16,7 +16,7 @@ nav_order: 3
 * Discrete Mathematics
 
 
-### [University of Cape Verde (**Uni-CV**)](https://www.unicv.edu.cv/)
+### [University of Cape Verde (Uni-CV)](https://www.unicv.edu.cv/)
 ######  &nbsp; &nbsp;Professor 2011 - 2019
 ##### Courses taught in Mathematics and Computer Science:
 * Algorithms and Data Structures

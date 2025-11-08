@@ -7,9 +7,9 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: left
   image: SidneiCruz.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href='#'>IST</a> and <a href='#'>UTA</a></p>
+    <p><a href='https://tecnico.ulisboa.pt/en'>IST</a> and <a href='https://uta.cv'>UTA</a></p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
