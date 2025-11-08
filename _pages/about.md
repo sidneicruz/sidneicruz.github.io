@@ -9,7 +9,7 @@ profile:
   image: SidneiCruz.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>São Nicolau, Cape Verde</p>
+    <p><a href='#'>IST</a> and <a href='#'>UTA</a></p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
