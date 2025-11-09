@@ -26,11 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Sidnei Cruz, I am Cape Verdean, and I was born on the island of São Nicolau.
+My name is Sidnei Cruz, I am Cape Verdean, and I was born on São Nicolau island.
 My academic journey started in 2001 at the Institute of Engineering and Marine Sciences, where I completed my bachelor's degree in Mathematics and Computing in 2004. In the same year, I enrolled at the Faculty of Science and Technology of the University of Coimbra, where I completed my degree in Mathematics Computer Science in 2006 and my master's degree in the same field in 2008. 
 
 I am currently a PhD student in Computer Science and Engineering at the Department of Computer Engineering and Computer Science of the Instituto Superior Técnico of the University of Lisbon, under the supervision of Professor Fábio Faria.
 
-My research interest are in the areas of Artificial Intelligence and Machine Learning fields!
+My area of research interest is related to Artificial Intelligence and Machine Learning.
+
+<!-- My research interest are in the areas of Artificial Intelligence and Machine Learning fields!-->
 
 
